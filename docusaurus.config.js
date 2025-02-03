@@ -32,7 +32,7 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
+    defaultLocale: 'zh-Hans',
     locales: ['en', 'zh-Hans'],
   },
 
@@ -86,11 +86,11 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: '星落之书（玩家手册）',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/3x-Ice-Cream/stardrop-docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -100,21 +100,17 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: '服务器文档',
             items: [
               {
-                label: 'Tutorial',
+                label: '星落之书（玩家手册）',
                 to: '/docs/intro',
               },
             ],
           },
           {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
+            title: '社区与群组',
+            items:{
               {
                 label: 'Discord',
                 href: 'https://discord.gg/RJ7GM8xJbT',
@@ -126,7 +122,7 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: '更多',
             items: [
               {
                 label: 'Blog',
