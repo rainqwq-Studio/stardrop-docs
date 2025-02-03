@@ -120,7 +120,7 @@ const config = {
                 href: 'https://discord.gg/RJ7GM8xJbT',
               },
               {
-                label: 'Qq',
+                label: 'QQ',
                 href: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Me3bPhEapXRK1AIlid13Pdfxc5LjFkNx&authKey=a02C6b3NFJZ2BcxSkrJbkkuiGVcvSG8SZ0Rr1AAMDXjMGA5729cwIFbs9%2FJGoxjW&noverify=0&group_code=272341800',
               },
             ],
