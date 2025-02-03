@@ -22,7 +22,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: '3x-Ice-Cream', // Usually your GitHub org/user name.
   projectName: 'stardrop-docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -76,9 +76,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Stardrop Docs',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Stardrop Pavilion Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -134,12 +134,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/3x-Ice-Cream/stardrop-docs',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Stardrop Docs, Team 3x Ice Cream. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
