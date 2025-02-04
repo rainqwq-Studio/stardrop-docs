@@ -110,7 +110,7 @@ const config = {
           },
           {
             title: '社区与群组',
-            items:{
+            items: [
               {
                 label: 'Discord',
                 href: 'https://discord.gg/RJ7GM8xJbT',
