@@ -1,5 +1,9 @@
 # Website
 
+这是⭐️落星阁⭐️服务器玩家手册（[Stardrop-Docs](stardrop-docs.netlify.app)）主仓库
+
+Here is the main repository for the [Stardrop-Docs](stardrop-docs.netlify.app)(Player Guideline).
+
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
