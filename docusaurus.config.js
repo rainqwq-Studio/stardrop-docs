@@ -104,7 +104,7 @@ const config = {
             items: [
               {
                 label: '星落之书（玩家手册）',
-                to: '/docs/intro',
+                to: '/docs/home',
               },
             ],
           },
