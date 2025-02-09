@@ -1,4 +1,4 @@
-# Website
+# Website [![Netlify Status](https://api.netlify.com/api/v1/badges/26158070-e4ca-4e08-90eb-813dba1fe105/deploy-status)](https://app.netlify.com/sites/stardrop-docs/deploys)
 
 这是⭐️落星阁⭐️服务器玩家手册（[Stardrop-Docs](https://stardrop-docs.netlify.app)）主仓库
 
