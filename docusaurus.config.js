@@ -79,7 +79,7 @@ const config = {
         title: 'Stardrop Docs',
         logo: {
           alt: 'Stardrop Pavilion Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
