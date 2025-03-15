@@ -1,5 +1,4 @@
 ---
-slug: archlinux-install-record
 title: Arch Linux 安装记录 2025.03.16 - On aigo u357 with ventoy
 authors: [xpe-online]
 tags: [archlinux]
