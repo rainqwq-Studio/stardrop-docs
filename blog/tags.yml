@@ -17,3 +17,8 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+archlinux:
+  label: Arch Linux
+  permalink: /archlinux
+  description: Arch Linux tag description
