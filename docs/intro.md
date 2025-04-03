@@ -2,46 +2,22 @@
 sidebar_position: 2
 ---
 
-# Tutorial Intro
+# 基本信息
 
-Let's discover **Docusaurus in less than 5 minutes**.
+服务器名称：`落星阁`
 
-## Getting Started
+英文名：`Stardrop Pavilion`
 
-Get started by **creating a new site**.
+简称/别称：`喵喵 · [M◇C]`
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+服务器口号：`Your Block, Our Constellation`
 
-### What you'll need
+服务器文化：`真诚、友善、团结、专业，共建你我引以为荣之Minecraft服务器`
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+成立时间：`2024.05.01`
 
-## Generate a new site
+服务器官网：`stardrop.snowqwq.top`
 
-Generate a new Docusaurus site using the **classic template**.
+主题色：`#7694ec`
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+现任管理：`snowdropQwQ、raindropQwQ`
