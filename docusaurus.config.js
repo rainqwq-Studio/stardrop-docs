@@ -90,7 +90,7 @@ const config = {
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/3x-Ice-Cream/stardrop-docs',
+            href: 'https://github.com/rainqwq-Studio/stardrop-docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -130,7 +130,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/3x-Ice-Cream/stardrop-docs',
+                href: 'https://github.com/rainqwq-Studio/stardrop-docs',
               },
             ],
           },
