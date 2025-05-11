@@ -135,7 +135,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} rainqwq Studio. ALl rights reserved. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} rainqwq Studio. All rights reserved. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
