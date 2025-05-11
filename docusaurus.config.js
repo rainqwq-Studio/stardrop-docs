@@ -4,7 +4,7 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -22,7 +22,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: '3x-Ice-Cream', // Usually your GitHub org/user name.
+  organizationName: 'rainqwq-Studio', // Usually your GitHub org/user name.
   projectName: 'stardrop-docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -88,7 +88,7 @@ const config = {
             position: 'left',
             label: '星落之书（玩家手册）',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/3x-Ice-Cream/stardrop-docs',
             label: 'GitHub',
@@ -135,7 +135,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Stardrop Docs, Team 3x Ice Cream. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} rainqwq Studio. ALl rights reserved. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
