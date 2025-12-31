@@ -90,8 +90,8 @@ const config = {
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/rainqwq-Studio/stardrop-docs',
-            label: 'GitHub',
+            href: 'https://codeberg.org/rainqwq-Studio/stardrop-docs',
+            label: 'Codeberg',
             position: 'right',
           },
           {
@@ -133,7 +133,7 @@ const config = {
                 to: '/blog',
               },
               {
-                label: 'GitHub',
+                label: 'Codeberg',
                 href: 'https://github.com/rainqwq-Studio/stardrop-docs',
               },
             ],
