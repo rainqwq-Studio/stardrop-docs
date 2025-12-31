@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: '2025 新年快乐!',
-    imgSrc: require('@site/static/img/2025sfGroupPhoto.png').default,
+    imgSrc: require('@site/static/img/2026nyPhoto.png').default,
     description: (
     <>
       2025.01.29
