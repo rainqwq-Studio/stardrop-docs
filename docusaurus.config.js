@@ -134,7 +134,7 @@ const config = {
               },
               {
                 label: 'Codeberg',
-                href: 'https://github.com/rainqwq-Studio/stardrop-docs',
+                href: 'https://codeberg.org/rainqwq-Studio/stardrop-docs',
               },
             ],
           },
