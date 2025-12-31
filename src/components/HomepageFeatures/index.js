@@ -4,11 +4,11 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: '2025 新年快乐!',
+    title: '2026 新年快乐!',
     imgSrc: require('@site/static/img/2026nyPhoto.png').default,
     description: (
     <>
-      2025.01.29
+      2026.01.01
     </>
     ),
   },
