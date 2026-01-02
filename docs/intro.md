@@ -6,7 +6,7 @@ sidebar_position: 2
 
 服务器名称：`落星阁`
 
-英文名：`Stardrop Pavilion`
+英文名：`Stardrop`
 
 简称/别称：`喵喵 · [M◇C]`
 
@@ -16,7 +16,7 @@ sidebar_position: 2
 
 成立时间：`2024.05.01`
 
-服务器官网：`stardrop.snowqwq.top`
+服务器官网：`star.snowqwq.dev`
 
 主题色：`#7694ec`
 

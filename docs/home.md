@@ -10,4 +10,4 @@ sidebar_position: 1
 
 ### 这是什么？
 
-其实只是一本玩家手册，创建项目之初起名为stardrop-docs，想了想翻译成星落之书可能会好听点？「[这里是GitHub仓库](https://github.com/3x-Ice-Cream/stardrop-docs)」
+其实只是一本玩家手册，创建项目之初起名为stardrop-docs，想了想翻译成星落之书可能会好听点？「[这里是Codeberg仓库](https://codeberg.org/rainqwq-Studio/stardrop-docs)」
